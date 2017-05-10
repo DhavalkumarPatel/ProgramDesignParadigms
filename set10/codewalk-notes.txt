@@ -1,0 +1,17 @@
+
+TA Name:- Gabriel
+Helper Name:- Prashanth Rajendran
+
+Design Grade:- A
+Presentation Grade - anupamsapre:- A
+Presentation Grade - dhavalpatel:- A
+Correctness Score:- 
+
+Notes:-
+1. after-drag function effect misses explanation about team mates
+4. play ground state is used as container
+5. Block factory class is used in cublets
+
+Presentation
+dhavalpatel : answered the question
+anupamsapre : answered the question

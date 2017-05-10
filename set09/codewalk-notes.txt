@@ -1,0 +1,13 @@
+TA Name:- Vinay Patil [patil.vi@husky.neu.edu]
+Helper Name:- Parth Bansal [bansal.p@husky.neu.edu]
+
+Design Grade:- A
+Presentation Grade - anupamsapre:- A
+Presentation Grade - dhavalpatel:- A
+Correctness Score:- 15/15
+
+Notes:-
+1. Missing interpretation for the classes. How do you instantiate a class?
+2. Missing template for ListOfToy.
+3. Missing template for MayBeToy.
+4. You don't really need to check for in-square? condition in button-up.

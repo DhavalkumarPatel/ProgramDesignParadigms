@@ -1,0 +1,12 @@
+TA: Sri Sudha
+Helper: Ankur
+
+Design: A
+Correctness: 15
+Presentation: A
+
+Notes:
+
+- Should document the default behavior of selected? in the data definition of tree/node
+- good generalisation
+- good use of constants in the code
